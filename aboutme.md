@@ -16,4 +16,4 @@ My name is Lilliana Urenda and I am all about these things:
 
 ### My story
 
-I love taking online personality tests to learn more about myself. According to the Myers-Briggs Personality Test, I toggle between being an INTJ and ENTJ. Learn about my personality type, or you can take the [Myers-Briggs personality test]([https://www.16personalities.com/free-personality-test]) and see what your personality type is.
+I love taking online personality tests to learn more about myself. According to the Myers-Briggs Personality Test, I toggle between being an INTJ and ENTJ. Learn about my personality type, or you can take the [Myers-Briggs personality test]([https://www.16personalities.com/free-personality-test]) and see what your personality type is!
