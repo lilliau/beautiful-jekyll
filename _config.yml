@@ -14,7 +14,7 @@ author: Lilliana Urenda
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am currently pursuing a master's degree in Program Evaluation & Data Analytics. This website is a project for CPP 527 at ASU."
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
