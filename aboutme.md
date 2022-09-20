@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Simple, yet complex
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lilliana Urenda and I am all about these things:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Concerts/live music
+- Documentaries
+- Swimming
+- My dogs
+- 80s movies
+- Arizona skies
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I love taking online personality tests to learn more about myself. According to the Myers-Briggs Personality Test, I toggle between being an INTJ and ENTJ. Learn about my personality type, or you can take the [Myers-Briggs personality test]([https://www.16personalities.com/free-personality-test]) and see what your personality type is.
