@@ -62,5 +62,16 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-size: 15px;
      font-family: Arial, Helvetica, sans-serif;
 }
+     
+.gs-section-02 h3 { 
+     color: #0000FF;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.gs-section-02 p {
+     font-size: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+}
 
 </style>
