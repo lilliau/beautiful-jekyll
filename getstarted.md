@@ -70,7 +70,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }
 
 .gs-section-02 p {
-     font-size: 10px;
+     font-size: 30px;
      font-family: Arial, Helvetica, sans-serif;
 }
      
@@ -82,6 +82,17 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 .gs-section-03 p {
      font-size: 20px;
+     font-family: "Times New Roman", Times, serif;
+}
+     
+ .gs-section-04 h3 { 
+     color: #D2691E;
+     font-size: 20px;
+     font-family: "Times New Roman", Times, serif;
+}
+
+.gs-section-04 p {
+     font-size: 10px;
      font-family: "Times New Roman", Times, serif;
 }
 
